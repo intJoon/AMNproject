@@ -31,12 +31,20 @@ This project implements and compares traditional Round-Robin load balancing with
 ## Project Structure
 
 ```
-Project/
+AMNproject/
 ├── data_processing/
 │   └── preprocess_data.py          # Data preprocessing pipeline
 ├── dataset/
 │   ├── training_data_250samples_*.json
-│   └── training_data_300samples_*.json
+│   ├── training_data_300samples_*.json
+│   └── [for testing]training_data_300samples_*.json
+├── evaluation/
+│   ├── compare_algorithms.py        # Algorithm comparison and evaluation
+│   ├── round_robin.py               # Round Robin baseline
+│   └── visualizations/              # Generated visualization files
+├── mininet_integration/
+│   ├── load_balancer.py             # Mininet integration module
+│   └── ryu_controller_example.py     # Ryu SDN controller example
 ├── models/
 │   ├── random_forest_model.py       # Random Forest implementation
 │   ├── graph_coloring_model.py      # Graph Coloring implementation
@@ -47,15 +55,6 @@ Project/
 │   ├── transformer_model.py        # Transformer-based model
 │   ├── gat_model.py                 # Graph Attention Network
 │   └── tgnn_model.py                # Temporal Graph Neural Network
-├── training/
-│   └── train_models.py              # Training script for all models
-├── evaluation/
-│   ├── compare_algorithms.py        # Algorithm comparison and evaluation
-│   ├── round_robin.py               # Round Robin baseline
-│   └── visualizations/              # Generated visualization files
-├── mininet_integration/
-│   ├── load_balancer.py             # Mininet integration module
-│   └── ryu_controller_example.py     # Ryu SDN controller example
 ├── saved_models/
 │   ├── preprocessed_data.pkl
 │   ├── random_forest.pkl
@@ -68,6 +67,9 @@ Project/
 │   ├── gat.pkl
 │   ├── tgnn.pkl
 │   └── evaluation_results.pkl
+├── training/
+│   └── train_models.py              # Training script for all models
+├── README.md
 └── requirements.txt
 ```
 
