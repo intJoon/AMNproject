@@ -1,0 +1,2402 @@
+[
+  {
+    "sample_id": 0,
+    "timestamp": "2025-12-07T12:13:52.476201",
+    "server": "h4",
+    "response_time_ms": 692.5499439239502,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 1,
+    "timestamp": "2025-12-07T12:13:52.730047",
+    "server": "h1",
+    "response_time_ms": 153.49102020263672,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 2,
+    "timestamp": "2025-12-07T12:13:53.664358",
+    "server": "h2",
+    "response_time_ms": 833.9767456054688,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 3,
+    "timestamp": "2025-12-07T12:13:53.935481",
+    "server": "h3",
+    "response_time_ms": 170.80235481262207,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 4,
+    "timestamp": "2025-12-07T12:13:54.601846",
+    "server": "h4",
+    "response_time_ms": 566.0440921783447,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 5,
+    "timestamp": "2025-12-07T12:13:54.852252",
+    "server": "h1",
+    "response_time_ms": 150.00200271606445,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 6,
+    "timestamp": "2025-12-07T12:13:55.782377",
+    "server": "h2",
+    "response_time_ms": 829.791784286499,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 7,
+    "timestamp": "2025-12-07T12:13:56.050224",
+    "server": "h3",
+    "response_time_ms": 166.6433811187744,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 8,
+    "timestamp": "2025-12-07T12:13:56.654114",
+    "server": "h4",
+    "response_time_ms": 503.265380859375,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 9,
+    "timestamp": "2025-12-07T12:13:56.923887",
+    "server": "h1",
+    "response_time_ms": 168.9474582672119,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 10,
+    "timestamp": "2025-12-07T12:13:57.965084",
+    "server": "h2",
+    "response_time_ms": 940.4864311218262,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 11,
+    "timestamp": "2025-12-07T12:13:58.249153",
+    "server": "h3",
+    "response_time_ms": 183.2742691040039,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 12,
+    "timestamp": "2025-12-07T12:13:58.876384",
+    "server": "h4",
+    "response_time_ms": 526.9043445587158,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 13,
+    "timestamp": "2025-12-07T12:13:59.111364",
+    "server": "h1",
+    "response_time_ms": 134.6566677093506,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 14,
+    "timestamp": "2025-12-07T12:14:00.173495",
+    "server": "h2",
+    "response_time_ms": 961.7900848388672,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 15,
+    "timestamp": "2025-12-07T12:14:00.441845",
+    "server": "h3",
+    "response_time_ms": 167.15741157531738,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 16,
+    "timestamp": "2025-12-07T12:14:01.221275",
+    "server": "h4",
+    "response_time_ms": 679.0602207183838,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 17,
+    "timestamp": "2025-12-07T12:14:01.490522",
+    "server": "h1",
+    "response_time_ms": 168.0445671081543,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 18,
+    "timestamp": "2025-12-07T12:14:02.607014",
+    "server": "h2",
+    "response_time_ms": 1015.5284404754639,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 19,
+    "timestamp": "2025-12-07T12:14:02.876005",
+    "server": "h3",
+    "response_time_ms": 168.5657501220703,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 20,
+    "timestamp": "2025-12-07T12:14:03.567401",
+    "server": "h4",
+    "response_time_ms": 586.7576599121094,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 21,
+    "timestamp": "2025-12-07T12:14:03.832430",
+    "server": "h1",
+    "response_time_ms": 164.38937187194824,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 22,
+    "timestamp": "2025-12-07T12:14:04.819702",
+    "server": "h2",
+    "response_time_ms": 886.7480754852295,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 23,
+    "timestamp": "2025-12-07T12:14:05.080755",
+    "server": "h3",
+    "response_time_ms": 160.68387031555176,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 24,
+    "timestamp": "2025-12-07T12:14:05.863226",
+    "server": "h4",
+    "response_time_ms": 682.1444034576416,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 25,
+    "timestamp": "2025-12-07T12:14:06.104084",
+    "server": "h1",
+    "response_time_ms": 140.49458503723145,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 26,
+    "timestamp": "2025-12-07T12:14:07.004065",
+    "server": "h2",
+    "response_time_ms": 799.635648727417,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 27,
+    "timestamp": "2025-12-07T12:14:07.284161",
+    "server": "h3",
+    "response_time_ms": 179.73732948303223,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 28,
+    "timestamp": "2025-12-07T12:14:08.057851",
+    "server": "h4",
+    "response_time_ms": 673.3589172363281,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 29,
+    "timestamp": "2025-12-07T12:14:08.281709",
+    "server": "h1",
+    "response_time_ms": 123.49462509155273,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 30,
+    "timestamp": "2025-12-07T12:14:09.261761",
+    "server": "h2",
+    "response_time_ms": 879.7168731689453,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 31,
+    "timestamp": "2025-12-07T12:14:09.533163",
+    "server": "h3",
+    "response_time_ms": 171.10300064086914,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 32,
+    "timestamp": "2025-12-07T12:14:10.274213",
+    "server": "h4",
+    "response_time_ms": 640.7194137573242,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 33,
+    "timestamp": "2025-12-07T12:14:10.500426",
+    "server": "h1",
+    "response_time_ms": 125.8847713470459,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 34,
+    "timestamp": "2025-12-07T12:14:11.483973",
+    "server": "h2",
+    "response_time_ms": 883.206844329834,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 35,
+    "timestamp": "2025-12-07T12:14:11.743701",
+    "server": "h3",
+    "response_time_ms": 159.37161445617676,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 36,
+    "timestamp": "2025-12-07T12:14:12.496306",
+    "server": "h4",
+    "response_time_ms": 652.2841453552246,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 37,
+    "timestamp": "2025-12-07T12:14:12.719447",
+    "server": "h1",
+    "response_time_ms": 122.81465530395508,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 38,
+    "timestamp": "2025-12-07T12:14:13.811955",
+    "server": "h2",
+    "response_time_ms": 992.1777248382568,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 39,
+    "timestamp": "2025-12-07T12:14:14.084813",
+    "server": "h3",
+    "response_time_ms": 172.56855964660645,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 40,
+    "timestamp": "2025-12-07T12:14:14.703357",
+    "server": "h4",
+    "response_time_ms": 518.2034969329834,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 41,
+    "timestamp": "2025-12-07T12:14:14.947997",
+    "server": "h1",
+    "response_time_ms": 144.30475234985352,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 42,
+    "timestamp": "2025-12-07T12:14:16.053507",
+    "server": "h2",
+    "response_time_ms": 1004.7202110290527,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 43,
+    "timestamp": "2025-12-07T12:14:16.301316",
+    "server": "h3",
+    "response_time_ms": 147.34315872192383,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 44,
+    "timestamp": "2025-12-07T12:14:16.915243",
+    "server": "h4",
+    "response_time_ms": 513.5769844055176,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 45,
+    "timestamp": "2025-12-07T12:14:17.180445",
+    "server": "h1",
+    "response_time_ms": 164.80469703674316,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 46,
+    "timestamp": "2025-12-07T12:14:18.356907",
+    "server": "h2",
+    "response_time_ms": 1076.1101245880127,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 47,
+    "timestamp": "2025-12-07T12:14:18.636452",
+    "server": "h3",
+    "response_time_ms": 179.21686172485352,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 48,
+    "timestamp": "2025-12-07T12:14:19.245032",
+    "server": "h4",
+    "response_time_ms": 508.24666023254395,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 49,
+    "timestamp": "2025-12-07T12:14:19.481810",
+    "server": "h1",
+    "response_time_ms": 136.4121437072754,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 50,
+    "timestamp": "2025-12-07T12:14:20.355350",
+    "server": "h2",
+    "response_time_ms": 773.2076644897461,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 51,
+    "timestamp": "2025-12-07T12:14:20.619926",
+    "server": "h3",
+    "response_time_ms": 164.25418853759766,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 52,
+    "timestamp": "2025-12-07T12:14:21.277183",
+    "server": "h4",
+    "response_time_ms": 556.9014549255371,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 53,
+    "timestamp": "2025-12-07T12:14:21.539246",
+    "server": "h1",
+    "response_time_ms": 161.7448329925537,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 54,
+    "timestamp": "2025-12-07T12:14:22.442159",
+    "server": "h2",
+    "response_time_ms": 802.4754524230957,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 55,
+    "timestamp": "2025-12-07T12:14:22.685921",
+    "server": "h3",
+    "response_time_ms": 143.4173583984375,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 56,
+    "timestamp": "2025-12-07T12:14:23.445564",
+    "server": "h4",
+    "response_time_ms": 659.3105792999268,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 57,
+    "timestamp": "2025-12-07T12:14:23.705255",
+    "server": "h1",
+    "response_time_ms": 159.32679176330566,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 58,
+    "timestamp": "2025-12-07T12:14:24.754411",
+    "server": "h2",
+    "response_time_ms": 948.8232135772705,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 59,
+    "timestamp": "2025-12-07T12:14:25.020167",
+    "server": "h3",
+    "response_time_ms": 165.1918888092041,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 60,
+    "timestamp": "2025-12-07T12:14:25.748495",
+    "server": "h4",
+    "response_time_ms": 627.9852390289307,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 61,
+    "timestamp": "2025-12-07T12:14:25.993850",
+    "server": "h1",
+    "response_time_ms": 145.0200080871582,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 62,
+    "timestamp": "2025-12-07T12:14:27.166432",
+    "server": "h2",
+    "response_time_ms": 1072.2548961639404,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 63,
+    "timestamp": "2025-12-07T12:14:27.406169",
+    "server": "h3",
+    "response_time_ms": 139.19615745544434,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 64,
+    "timestamp": "2025-12-07T12:14:28.102347",
+    "server": "h4",
+    "response_time_ms": 595.778226852417,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 65,
+    "timestamp": "2025-12-07T12:14:28.344845",
+    "server": "h1",
+    "response_time_ms": 142.15898513793945,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 66,
+    "timestamp": "2025-12-07T12:14:29.270996",
+    "server": "h2",
+    "response_time_ms": 825.8030414581299,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 67,
+    "timestamp": "2025-12-07T12:14:29.552432",
+    "server": "h3",
+    "response_time_ms": 181.08892440795898,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 68,
+    "timestamp": "2025-12-07T12:14:30.221286",
+    "server": "h4",
+    "response_time_ms": 568.3727264404297,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 69,
+    "timestamp": "2025-12-07T12:14:30.474971",
+    "server": "h1",
+    "response_time_ms": 153.3334255218506,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 70,
+    "timestamp": "2025-12-07T12:14:31.484678",
+    "server": "h2",
+    "response_time_ms": 909.3625545501709,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 71,
+    "timestamp": "2025-12-07T12:14:31.725995",
+    "server": "h3",
+    "response_time_ms": 140.90204238891602,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 72,
+    "timestamp": "2025-12-07T12:14:32.360127",
+    "server": "h4",
+    "response_time_ms": 533.7824821472168,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 73,
+    "timestamp": "2025-12-07T12:14:32.599251",
+    "server": "h1",
+    "response_time_ms": 138.7784481048584,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 74,
+    "timestamp": "2025-12-07T12:14:33.501165",
+    "server": "h2",
+    "response_time_ms": 801.5909194946289,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 75,
+    "timestamp": "2025-12-07T12:14:33.767463",
+    "server": "h3",
+    "response_time_ms": 165.89951515197754,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 76,
+    "timestamp": "2025-12-07T12:14:34.525918",
+    "server": "h4",
+    "response_time_ms": 658.134937286377,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 77,
+    "timestamp": "2025-12-07T12:14:34.780787",
+    "server": "h1",
+    "response_time_ms": 154.5262336730957,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 78,
+    "timestamp": "2025-12-07T12:14:35.727760",
+    "server": "h2",
+    "response_time_ms": 846.1828231811523,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 79,
+    "timestamp": "2025-12-07T12:14:36.017437",
+    "server": "h3",
+    "response_time_ms": 189.18418884277344,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 80,
+    "timestamp": "2025-12-07T12:14:36.658062",
+    "server": "h4",
+    "response_time_ms": 540.2774810791016,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 81,
+    "timestamp": "2025-12-07T12:14:36.923806",
+    "server": "h1",
+    "response_time_ms": 165.39907455444336,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 82,
+    "timestamp": "2025-12-07T12:14:38.008781",
+    "server": "h2",
+    "response_time_ms": 984.4434261322021,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 83,
+    "timestamp": "2025-12-07T12:14:38.271120",
+    "server": "h3",
+    "response_time_ms": 161.38029098510742,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 84,
+    "timestamp": "2025-12-07T12:14:39.030263",
+    "server": "h4",
+    "response_time_ms": 658.6973667144775,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 85,
+    "timestamp": "2025-12-07T12:14:39.269356",
+    "server": "h1",
+    "response_time_ms": 138.12017440795898,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 86,
+    "timestamp": "2025-12-07T12:14:40.390305",
+    "server": "h2",
+    "response_time_ms": 1020.6089019775391,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 87,
+    "timestamp": "2025-12-07T12:14:40.630281",
+    "server": "h3",
+    "response_time_ms": 139.6329402923584,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 88,
+    "timestamp": "2025-12-07T12:14:41.288108",
+    "server": "h4",
+    "response_time_ms": 557.471513748169,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 89,
+    "timestamp": "2025-12-07T12:14:41.549302",
+    "server": "h1",
+    "response_time_ms": 160.8603000640869,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 90,
+    "timestamp": "2025-12-07T12:14:42.675072",
+    "server": "h2",
+    "response_time_ms": 1025.2783298492432,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 91,
+    "timestamp": "2025-12-07T12:14:42.932805",
+    "server": "h3",
+    "response_time_ms": 157.38224983215332,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 92,
+    "timestamp": "2025-12-07T12:14:43.705741",
+    "server": "h4",
+    "response_time_ms": 672.6202964782715,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 93,
+    "timestamp": "2025-12-07T12:14:43.952584",
+    "server": "h1",
+    "response_time_ms": 146.49367332458496,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 94,
+    "timestamp": "2025-12-07T12:14:44.957258",
+    "server": "h2",
+    "response_time_ms": 904.3247699737549,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 95,
+    "timestamp": "2025-12-07T12:14:45.199559",
+    "server": "h3",
+    "response_time_ms": 141.9835090637207,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 96,
+    "timestamp": "2025-12-07T12:14:45.790811",
+    "server": "h4",
+    "response_time_ms": 490.6949996948242,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 97,
+    "timestamp": "2025-12-07T12:14:46.023577",
+    "server": "h1",
+    "response_time_ms": 132.42149353027344,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 98,
+    "timestamp": "2025-12-07T12:14:47.048475",
+    "server": "h2",
+    "response_time_ms": 924.5402812957764,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 99,
+    "timestamp": "2025-12-07T12:14:47.308979",
+    "server": "h3",
+    "response_time_ms": 160.16268730163574,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 100,
+    "timestamp": "2025-12-07T12:14:47.969556",
+    "server": "h4",
+    "response_time_ms": 560.2378845214844,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 101,
+    "timestamp": "2025-12-07T12:14:48.224936",
+    "server": "h1",
+    "response_time_ms": 155.0283432006836,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 102,
+    "timestamp": "2025-12-07T12:14:49.205322",
+    "server": "h2",
+    "response_time_ms": 880.0432682037354,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 103,
+    "timestamp": "2025-12-07T12:14:49.470212",
+    "server": "h3",
+    "response_time_ms": 164.56103324890137,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 104,
+    "timestamp": "2025-12-07T12:14:50.188392",
+    "server": "h4",
+    "response_time_ms": 617.8126335144043,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 105,
+    "timestamp": "2025-12-07T12:14:50.443657",
+    "server": "h1",
+    "response_time_ms": 154.9067497253418,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 106,
+    "timestamp": "2025-12-07T12:14:51.407866",
+    "server": "h2",
+    "response_time_ms": 863.8765811920166,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 107,
+    "timestamp": "2025-12-07T12:14:51.680805",
+    "server": "h3",
+    "response_time_ms": 172.59931564331055,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 108,
+    "timestamp": "2025-12-07T12:14:52.419381",
+    "server": "h4",
+    "response_time_ms": 638.1280422210693,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 109,
+    "timestamp": "2025-12-07T12:14:52.654540",
+    "server": "h1",
+    "response_time_ms": 134.81736183166504,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 110,
+    "timestamp": "2025-12-07T12:14:53.552746",
+    "server": "h2",
+    "response_time_ms": 797.410249710083,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 111,
+    "timestamp": "2025-12-07T12:14:53.832827",
+    "server": "h3",
+    "response_time_ms": 179.60000038146973,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 112,
+    "timestamp": "2025-12-07T12:14:54.540812",
+    "server": "h4",
+    "response_time_ms": 607.6486110687256,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 113,
+    "timestamp": "2025-12-07T12:14:54.802320",
+    "server": "h1",
+    "response_time_ms": 161.16857528686523,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 114,
+    "timestamp": "2025-12-07T12:14:55.805140",
+    "server": "h2",
+    "response_time_ms": 902.4794101715088,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 115,
+    "timestamp": "2025-12-07T12:14:56.077411",
+    "server": "h3",
+    "response_time_ms": 171.87881469726562,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 116,
+    "timestamp": "2025-12-07T12:14:56.712842",
+    "server": "h4",
+    "response_time_ms": 534.7685813903809,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 117,
+    "timestamp": "2025-12-07T12:14:56.955552",
+    "server": "h1",
+    "response_time_ms": 142.37236976623535,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 118,
+    "timestamp": "2025-12-07T12:14:58.038013",
+    "server": "h2",
+    "response_time_ms": 982.0957183837891,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 119,
+    "timestamp": "2025-12-07T12:14:58.329464",
+    "server": "h3",
+    "response_time_ms": 191.09082221984863,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 120,
+    "timestamp": "2025-12-07T12:14:59.060148",
+    "server": "h4",
+    "response_time_ms": 630.3701400756836,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 121,
+    "timestamp": "2025-12-07T12:14:59.320724",
+    "server": "h1",
+    "response_time_ms": 160.2168083190918,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 122,
+    "timestamp": "2025-12-07T12:15:00.309377",
+    "server": "h2",
+    "response_time_ms": 888.2718086242676,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 123,
+    "timestamp": "2025-12-07T12:15:00.588393",
+    "server": "h3",
+    "response_time_ms": 178.6787509918213,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 124,
+    "timestamp": "2025-12-07T12:15:01.233287",
+    "server": "h4",
+    "response_time_ms": 544.339656829834,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 125,
+    "timestamp": "2025-12-07T12:15:01.483198",
+    "server": "h1",
+    "response_time_ms": 149.56283569335938,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 126,
+    "timestamp": "2025-12-07T12:15:02.585839",
+    "server": "h2",
+    "response_time_ms": 1001.7290115356445,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 127,
+    "timestamp": "2025-12-07T12:15:02.857551",
+    "server": "h3",
+    "response_time_ms": 171.10443115234375,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 128,
+    "timestamp": "2025-12-07T12:15:03.555917",
+    "server": "h4",
+    "response_time_ms": 597.9108810424805,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 129,
+    "timestamp": "2025-12-07T12:15:03.789432",
+    "server": "h1",
+    "response_time_ms": 133.0888271331787,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 130,
+    "timestamp": "2025-12-07T12:15:04.753727",
+    "server": "h2",
+    "response_time_ms": 863.8885021209717,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 131,
+    "timestamp": "2025-12-07T12:15:04.999932",
+    "server": "h3",
+    "response_time_ms": 145.81942558288574,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 132,
+    "timestamp": "2025-12-07T12:15:05.588504",
+    "server": "h4",
+    "response_time_ms": 488.20018768310547,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 133,
+    "timestamp": "2025-12-07T12:15:05.818106",
+    "server": "h1",
+    "response_time_ms": 129.2581558227539,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 134,
+    "timestamp": "2025-12-07T12:15:06.769325",
+    "server": "h2",
+    "response_time_ms": 850.8853912353516,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 135,
+    "timestamp": "2025-12-07T12:15:07.058503",
+    "server": "h3",
+    "response_time_ms": 188.8444423675537,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 136,
+    "timestamp": "2025-12-07T12:15:07.744967",
+    "server": "h4",
+    "response_time_ms": 585.9692096710205,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 137,
+    "timestamp": "2025-12-07T12:15:07.985772",
+    "server": "h1",
+    "response_time_ms": 140.47956466674805,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 138,
+    "timestamp": "2025-12-07T12:15:09.114947",
+    "server": "h2",
+    "response_time_ms": 1028.5751819610596,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 139,
+    "timestamp": "2025-12-07T12:15:09.384418",
+    "server": "h3",
+    "response_time_ms": 169.13270950317383,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 140,
+    "timestamp": "2025-12-07T12:15:10.170510",
+    "server": "h4",
+    "response_time_ms": 685.7385635375977,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 141,
+    "timestamp": "2025-12-07T12:15:10.415655",
+    "server": "h1",
+    "response_time_ms": 144.7145938873291,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 142,
+    "timestamp": "2025-12-07T12:15:11.492285",
+    "server": "h2",
+    "response_time_ms": 976.3071537017822,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 143,
+    "timestamp": "2025-12-07T12:15:11.756793",
+    "server": "h3",
+    "response_time_ms": 164.15810585021973,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 144,
+    "timestamp": "2025-12-07T12:15:12.483837",
+    "server": "h4",
+    "response_time_ms": 626.6546249389648,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 145,
+    "timestamp": "2025-12-07T12:15:12.711169",
+    "server": "h1",
+    "response_time_ms": 126.97720527648926,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 146,
+    "timestamp": "2025-12-07T12:15:13.613980",
+    "server": "h2",
+    "response_time_ms": 802.4733066558838,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 147,
+    "timestamp": "2025-12-07T12:15:13.881644",
+    "server": "h3",
+    "response_time_ms": 167.29998588562012,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 148,
+    "timestamp": "2025-12-07T12:15:14.549270",
+    "server": "h4",
+    "response_time_ms": 567.3007965087891,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 149,
+    "timestamp": "2025-12-07T12:15:14.788868",
+    "server": "h1",
+    "response_time_ms": 139.23168182373047,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 150,
+    "timestamp": "2025-12-07T12:15:15.894578",
+    "server": "h2",
+    "response_time_ms": 1005.3682327270508,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 151,
+    "timestamp": "2025-12-07T12:15:16.145265",
+    "server": "h3",
+    "response_time_ms": 150.11024475097656,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 152,
+    "timestamp": "2025-12-07T12:15:16.791853",
+    "server": "h4",
+    "response_time_ms": 546.1685657501221,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 153,
+    "timestamp": "2025-12-07T12:15:17.033337",
+    "server": "h1",
+    "response_time_ms": 141.14832878112793,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 154,
+    "timestamp": "2025-12-07T12:15:18.040341",
+    "server": "h2",
+    "response_time_ms": 906.6734313964844,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 155,
+    "timestamp": "2025-12-07T12:15:18.313169",
+    "server": "h3",
+    "response_time_ms": 172.48821258544922,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 156,
+    "timestamp": "2025-12-07T12:15:19.044225",
+    "server": "h4",
+    "response_time_ms": 630.6796073913574,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 157,
+    "timestamp": "2025-12-07T12:15:19.284073",
+    "server": "h1",
+    "response_time_ms": 139.51730728149414,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 158,
+    "timestamp": "2025-12-07T12:15:20.133984",
+    "server": "h2",
+    "response_time_ms": 749.5825290679932,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 159,
+    "timestamp": "2025-12-07T12:15:20.424507",
+    "server": "h3",
+    "response_time_ms": 190.18793106079102,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 160,
+    "timestamp": "2025-12-07T12:15:21.154861",
+    "server": "h4",
+    "response_time_ms": 629.8484802246094,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 161,
+    "timestamp": "2025-12-07T12:15:21.391722",
+    "server": "h1",
+    "response_time_ms": 136.5032196044922,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 162,
+    "timestamp": "2025-12-07T12:15:22.528326",
+    "server": "h2",
+    "response_time_ms": 1036.2701416015625,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 163,
+    "timestamp": "2025-12-07T12:15:22.772653",
+    "server": "h3",
+    "response_time_ms": 143.27454566955566,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 164,
+    "timestamp": "2025-12-07T12:15:23.381672",
+    "server": "h4",
+    "response_time_ms": 508.6681842803955,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 165,
+    "timestamp": "2025-12-07T12:15:23.632178",
+    "server": "h1",
+    "response_time_ms": 150.15769004821777,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 166,
+    "timestamp": "2025-12-07T12:15:24.649194",
+    "server": "h2",
+    "response_time_ms": 916.6734218597412,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 167,
+    "timestamp": "2025-12-07T12:15:24.939209",
+    "server": "h3",
+    "response_time_ms": 189.56351280212402,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 168,
+    "timestamp": "2025-12-07T12:15:25.640300",
+    "server": "h4",
+    "response_time_ms": 600.6922721862793,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 169,
+    "timestamp": "2025-12-07T12:15:25.872743",
+    "server": "h1",
+    "response_time_ms": 132.10535049438477,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 170,
+    "timestamp": "2025-12-07T12:15:26.840443",
+    "server": "h2",
+    "response_time_ms": 867.3751354217529,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 171,
+    "timestamp": "2025-12-07T12:15:27.101237",
+    "server": "h3",
+    "response_time_ms": 160.4323387145996,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 172,
+    "timestamp": "2025-12-07T12:15:27.684825",
+    "server": "h4",
+    "response_time_ms": 483.2613468170166,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 173,
+    "timestamp": "2025-12-07T12:15:27.934276",
+    "server": "h1",
+    "response_time_ms": 149.11174774169922,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 174,
+    "timestamp": "2025-12-07T12:15:28.991973",
+    "server": "h2",
+    "response_time_ms": 957.3483467102051,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 175,
+    "timestamp": "2025-12-07T12:15:29.241161",
+    "server": "h3",
+    "response_time_ms": 148.8637924194336,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 176,
+    "timestamp": "2025-12-07T12:15:29.936229",
+    "server": "h4",
+    "response_time_ms": 594.7356224060059,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 177,
+    "timestamp": "2025-12-07T12:15:30.184204",
+    "server": "h1",
+    "response_time_ms": 147.57847785949707,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 178,
+    "timestamp": "2025-12-07T12:15:31.236522",
+    "server": "h2",
+    "response_time_ms": 951.9686698913574,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 179,
+    "timestamp": "2025-12-07T12:15:31.520454",
+    "server": "h3",
+    "response_time_ms": 183.58540534973145,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 180,
+    "timestamp": "2025-12-07T12:15:32.110369",
+    "server": "h4",
+    "response_time_ms": 489.57014083862305,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 181,
+    "timestamp": "2025-12-07T12:15:32.367931",
+    "server": "h1",
+    "response_time_ms": 157.22346305847168,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 182,
+    "timestamp": "2025-12-07T12:15:33.299684",
+    "server": "h2",
+    "response_time_ms": 831.3915729522705,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 183,
+    "timestamp": "2025-12-07T12:15:33.572510",
+    "server": "h3",
+    "response_time_ms": 172.5010871887207,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 184,
+    "timestamp": "2025-12-07T12:15:34.181565",
+    "server": "h4",
+    "response_time_ms": 508.6476802825928,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 185,
+    "timestamp": "2025-12-07T12:15:34.427838",
+    "server": "h1",
+    "response_time_ms": 145.89214324951172,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 186,
+    "timestamp": "2025-12-07T12:15:35.529117",
+    "server": "h2",
+    "response_time_ms": 1000.8542537689209,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 187,
+    "timestamp": "2025-12-07T12:15:35.798186",
+    "server": "h3",
+    "response_time_ms": 168.66278648376465,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 188,
+    "timestamp": "2025-12-07T12:15:36.569642",
+    "server": "h4",
+    "response_time_ms": 671.0915565490723,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 189,
+    "timestamp": "2025-12-07T12:15:36.798545",
+    "server": "h1",
+    "response_time_ms": 128.462553024292,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 190,
+    "timestamp": "2025-12-07T12:15:37.726160",
+    "server": "h2",
+    "response_time_ms": 826.9906044006348,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 191,
+    "timestamp": "2025-12-07T12:15:37.992058",
+    "server": "h3",
+    "response_time_ms": 165.24529457092285,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 192,
+    "timestamp": "2025-12-07T12:15:38.702418",
+    "server": "h4",
+    "response_time_ms": 609.9395751953125,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 193,
+    "timestamp": "2025-12-07T12:15:38.945354",
+    "server": "h1",
+    "response_time_ms": 142.22049713134766,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 194,
+    "timestamp": "2025-12-07T12:15:40.077067",
+    "server": "h2",
+    "response_time_ms": 1031.2669277191162,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 195,
+    "timestamp": "2025-12-07T12:15:40.354561",
+    "server": "h3",
+    "response_time_ms": 177.16336250305176,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 196,
+    "timestamp": "2025-12-07T12:15:40.942268",
+    "server": "h4",
+    "response_time_ms": 487.17522621154785,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 197,
+    "timestamp": "2025-12-07T12:15:41.195488",
+    "server": "h1",
+    "response_time_ms": 152.4350643157959,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 198,
+    "timestamp": "2025-12-07T12:15:42.227058",
+    "server": "h2",
+    "response_time_ms": 931.2357902526855,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 199,
+    "timestamp": "2025-12-07T12:15:42.485885",
+    "server": "h3",
+    "response_time_ms": 158.48565101623535,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 200,
+    "timestamp": "2025-12-07T12:15:43.064904",
+    "server": "h4",
+    "response_time_ms": 478.69372367858887,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 201,
+    "timestamp": "2025-12-07T12:15:43.289963",
+    "server": "h1",
+    "response_time_ms": 124.57442283630371,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 202,
+    "timestamp": "2025-12-07T12:15:44.313175",
+    "server": "h2",
+    "response_time_ms": 922.8477478027344,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 203,
+    "timestamp": "2025-12-07T12:15:44.571048",
+    "server": "h3",
+    "response_time_ms": 157.5324535369873,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 204,
+    "timestamp": "2025-12-07T12:15:45.172742",
+    "server": "h4",
+    "response_time_ms": 501.145601272583,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 205,
+    "timestamp": "2025-12-07T12:15:45.423359",
+    "server": "h1",
+    "response_time_ms": 150.28786659240723,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 206,
+    "timestamp": "2025-12-07T12:15:46.492329",
+    "server": "h2",
+    "response_time_ms": 968.6434268951416,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 207,
+    "timestamp": "2025-12-07T12:15:46.768467",
+    "server": "h3",
+    "response_time_ms": 175.7340431213379,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 208,
+    "timestamp": "2025-12-07T12:15:47.504434",
+    "server": "h4",
+    "response_time_ms": 635.6275081634521,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 209,
+    "timestamp": "2025-12-07T12:15:47.763734",
+    "server": "h1",
+    "response_time_ms": 158.69903564453125,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 210,
+    "timestamp": "2025-12-07T12:15:48.708689",
+    "server": "h2",
+    "response_time_ms": 844.6025848388672,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 211,
+    "timestamp": "2025-12-07T12:15:48.949288",
+    "server": "h3",
+    "response_time_ms": 140.28453826904297,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 212,
+    "timestamp": "2025-12-07T12:15:49.701377",
+    "server": "h4",
+    "response_time_ms": 651.7634391784668,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 213,
+    "timestamp": "2025-12-07T12:15:49.964772",
+    "server": "h1",
+    "response_time_ms": 163.0690097808838,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 214,
+    "timestamp": "2025-12-07T12:15:50.887994",
+    "server": "h2",
+    "response_time_ms": 822.9000568389893,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 215,
+    "timestamp": "2025-12-07T12:15:51.142841",
+    "server": "h3",
+    "response_time_ms": 154.36339378356934,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 216,
+    "timestamp": "2025-12-07T12:15:51.798930",
+    "server": "h4",
+    "response_time_ms": 555.6654930114746,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 217,
+    "timestamp": "2025-12-07T12:15:52.037264",
+    "server": "h1",
+    "response_time_ms": 138.0140781402588,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 218,
+    "timestamp": "2025-12-07T12:15:53.111816",
+    "server": "h2",
+    "response_time_ms": 974.2100238800049,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 219,
+    "timestamp": "2025-12-07T12:15:53.376503",
+    "server": "h3",
+    "response_time_ms": 164.34764862060547,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 220,
+    "timestamp": "2025-12-07T12:15:54.057567",
+    "server": "h4",
+    "response_time_ms": 580.7232856750488,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 221,
+    "timestamp": "2025-12-07T12:15:54.287884",
+    "server": "h1",
+    "response_time_ms": 129.95338439941406,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 222,
+    "timestamp": "2025-12-07T12:15:55.303674",
+    "server": "h2",
+    "response_time_ms": 915.2305126190186,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 223,
+    "timestamp": "2025-12-07T12:15:55.558390",
+    "server": "h3",
+    "response_time_ms": 154.28471565246582,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 224,
+    "timestamp": "2025-12-07T12:15:56.319311",
+    "server": "h4",
+    "response_time_ms": 660.1278781890869,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 225,
+    "timestamp": "2025-12-07T12:15:56.567575",
+    "server": "h1",
+    "response_time_ms": 147.90081977844238,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 226,
+    "timestamp": "2025-12-07T12:15:57.576844",
+    "server": "h2",
+    "response_time_ms": 908.5242748260498,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 227,
+    "timestamp": "2025-12-07T12:15:57.835031",
+    "server": "h3",
+    "response_time_ms": 157.41252899169922,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 228,
+    "timestamp": "2025-12-07T12:15:58.480045",
+    "server": "h4",
+    "response_time_ms": 544.6696281433105,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 229,
+    "timestamp": "2025-12-07T12:15:58.737818",
+    "server": "h1",
+    "response_time_ms": 157.26327896118164,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 230,
+    "timestamp": "2025-12-07T12:15:59.630009",
+    "server": "h2",
+    "response_time_ms": 791.8498516082764,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 231,
+    "timestamp": "2025-12-07T12:15:59.902275",
+    "server": "h3",
+    "response_time_ms": 171.91338539123535,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 232,
+    "timestamp": "2025-12-07T12:16:00.689507",
+    "server": "h4",
+    "response_time_ms": 685.7235431671143,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 233,
+    "timestamp": "2025-12-07T12:16:00.943917",
+    "server": "h1",
+    "response_time_ms": 154.06084060668945,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 234,
+    "timestamp": "2025-12-07T12:16:01.999732",
+    "server": "h2",
+    "response_time_ms": 955.2445411682129,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 235,
+    "timestamp": "2025-12-07T12:16:02.303520",
+    "server": "h3",
+    "response_time_ms": 203.0491828918457,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 236,
+    "timestamp": "2025-12-07T12:16:02.959844",
+    "server": "h4",
+    "response_time_ms": 555.1249980926514,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 237,
+    "timestamp": "2025-12-07T12:16:03.215313",
+    "server": "h1",
+    "response_time_ms": 155.01737594604492,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 238,
+    "timestamp": "2025-12-07T12:16:04.266233",
+    "server": "h2",
+    "response_time_ms": 950.415849685669,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 239,
+    "timestamp": "2025-12-07T12:16:04.539323",
+    "server": "h3",
+    "response_time_ms": 172.7273464202881,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 240,
+    "timestamp": "2025-12-07T12:16:05.151910",
+    "server": "h4",
+    "response_time_ms": 512.2616291046143,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 241,
+    "timestamp": "2025-12-07T12:16:05.409332",
+    "server": "h1",
+    "response_time_ms": 157.0718288421631,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 242,
+    "timestamp": "2025-12-07T12:16:06.469879",
+    "server": "h2",
+    "response_time_ms": 960.2172374725342,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 243,
+    "timestamp": "2025-12-07T12:16:06.754137",
+    "server": "h3",
+    "response_time_ms": 183.91895294189453,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 244,
+    "timestamp": "2025-12-07T12:16:07.435239",
+    "server": "h4",
+    "response_time_ms": 580.6992053985596,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 245,
+    "timestamp": "2025-12-07T12:16:07.678516",
+    "server": "h1",
+    "response_time_ms": 142.94910430908203,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 246,
+    "timestamp": "2025-12-07T12:16:08.563368",
+    "server": "h2",
+    "response_time_ms": 784.3692302703857,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 247,
+    "timestamp": "2025-12-07T12:16:08.843871",
+    "server": "h3",
+    "response_time_ms": 180.1624298095703,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 248,
+    "timestamp": "2025-12-07T12:16:09.571316",
+    "server": "h4",
+    "response_time_ms": 627.1200180053711,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 249,
+    "timestamp": "2025-12-07T12:16:09.812879",
+    "server": "h1",
+    "response_time_ms": 141.2334442138672,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 250,
+    "timestamp": "2025-12-07T12:16:10.937788",
+    "server": "h2",
+    "response_time_ms": 1024.5656967163086,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 251,
+    "timestamp": "2025-12-07T12:16:11.224851",
+    "server": "h3",
+    "response_time_ms": 186.7392063140869,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 252,
+    "timestamp": "2025-12-07T12:16:11.884636",
+    "server": "h4",
+    "response_time_ms": 559.4110488891602,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 253,
+    "timestamp": "2025-12-07T12:16:12.135104",
+    "server": "h1",
+    "response_time_ms": 150.13480186462402,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 254,
+    "timestamp": "2025-12-07T12:16:13.171456",
+    "server": "h2",
+    "response_time_ms": 936.0208511352539,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 255,
+    "timestamp": "2025-12-07T12:16:13.438388",
+    "server": "h3",
+    "response_time_ms": 166.60118103027344,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 256,
+    "timestamp": "2025-12-07T12:16:14.083368",
+    "server": "h4",
+    "response_time_ms": 544.6655750274658,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 257,
+    "timestamp": "2025-12-07T12:16:14.322486",
+    "server": "h1",
+    "response_time_ms": 138.77153396606445,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 258,
+    "timestamp": "2025-12-07T12:16:15.190194",
+    "server": "h2",
+    "response_time_ms": 767.1096324920654,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 259,
+    "timestamp": "2025-12-07T12:16:15.462559",
+    "server": "h3",
+    "response_time_ms": 172.0280647277832,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 260,
+    "timestamp": "2025-12-07T12:16:16.149470",
+    "server": "h4",
+    "response_time_ms": 586.2908363342285,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 261,
+    "timestamp": "2025-12-07T12:16:16.376189",
+    "server": "h1",
+    "response_time_ms": 126.38020515441895,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 262,
+    "timestamp": "2025-12-07T12:16:17.409056",
+    "server": "h2",
+    "response_time_ms": 932.5277805328369,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 263,
+    "timestamp": "2025-12-07T12:16:17.696924",
+    "server": "h3",
+    "response_time_ms": 187.5171661376953,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 264,
+    "timestamp": "2025-12-07T12:16:18.356477",
+    "server": "h4",
+    "response_time_ms": 559.2093467712402,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 265,
+    "timestamp": "2025-12-07T12:16:18.612371",
+    "server": "h1",
+    "response_time_ms": 155.5485725402832,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 266,
+    "timestamp": "2025-12-07T12:16:19.786924",
+    "server": "h2",
+    "response_time_ms": 1073.951244354248,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 267,
+    "timestamp": "2025-12-07T12:16:20.067471",
+    "server": "h3",
+    "response_time_ms": 180.23371696472168,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 268,
+    "timestamp": "2025-12-07T12:16:20.855144",
+    "server": "h4",
+    "response_time_ms": 687.330961227417,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 269,
+    "timestamp": "2025-12-07T12:16:21.101401",
+    "server": "h1",
+    "response_time_ms": 145.92647552490234,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 270,
+    "timestamp": "2025-12-07T12:16:22.034011",
+    "server": "h2",
+    "response_time_ms": 832.2062492370605,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 271,
+    "timestamp": "2025-12-07T12:16:22.274916",
+    "server": "h3",
+    "response_time_ms": 140.39015769958496,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 272,
+    "timestamp": "2025-12-07T12:16:23.057045",
+    "server": "h4",
+    "response_time_ms": 681.7901134490967,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 273,
+    "timestamp": "2025-12-07T12:16:23.316067",
+    "server": "h1",
+    "response_time_ms": 158.6916446685791,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 274,
+    "timestamp": "2025-12-07T12:16:24.466556",
+    "server": "h2",
+    "response_time_ms": 1050.1773357391357,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 275,
+    "timestamp": "2025-12-07T12:16:24.706985",
+    "server": "h3",
+    "response_time_ms": 139.9092674255371,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 276,
+    "timestamp": "2025-12-07T12:16:25.300180",
+    "server": "h4",
+    "response_time_ms": 492.88272857666016,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 277,
+    "timestamp": "2025-12-07T12:16:25.530268",
+    "server": "h1",
+    "response_time_ms": 129.75478172302246,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 278,
+    "timestamp": "2025-12-07T12:16:26.447204",
+    "server": "h2",
+    "response_time_ms": 816.5950775146484,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 279,
+    "timestamp": "2025-12-07T12:16:26.717923",
+    "server": "h3",
+    "response_time_ms": 170.3476905822754,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 280,
+    "timestamp": "2025-12-07T12:16:27.438176",
+    "server": "h4",
+    "response_time_ms": 619.9028491973877,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 281,
+    "timestamp": "2025-12-07T12:16:27.696191",
+    "server": "h1",
+    "response_time_ms": 157.67598152160645,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 282,
+    "timestamp": "2025-12-07T12:16:28.671993",
+    "server": "h2",
+    "response_time_ms": 875.4663467407227,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 283,
+    "timestamp": "2025-12-07T12:16:28.959361",
+    "server": "h3",
+    "response_time_ms": 187.0434284210205,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 284,
+    "timestamp": "2025-12-07T12:16:29.635088",
+    "server": "h4",
+    "response_time_ms": 575.4213333129883,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 285,
+    "timestamp": "2025-12-07T12:16:29.865365",
+    "server": "h1",
+    "response_time_ms": 129.93741035461426,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 286,
+    "timestamp": "2025-12-07T12:16:30.775357",
+    "server": "h2",
+    "response_time_ms": 809.6458911895752,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 287,
+    "timestamp": "2025-12-07T12:16:31.019577",
+    "server": "h3",
+    "response_time_ms": 143.80741119384766,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 288,
+    "timestamp": "2025-12-07T12:16:31.608073",
+    "server": "h4",
+    "response_time_ms": 488.14916610717773,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 289,
+    "timestamp": "2025-12-07T12:16:31.848937",
+    "server": "h1",
+    "response_time_ms": 140.5327320098877,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 290,
+    "timestamp": "2025-12-07T12:16:32.778587",
+    "server": "h2",
+    "response_time_ms": 829.272985458374,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 291,
+    "timestamp": "2025-12-07T12:16:33.028545",
+    "server": "h3",
+    "response_time_ms": 149.40667152404785,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 292,
+    "timestamp": "2025-12-07T12:16:33.761299",
+    "server": "h4",
+    "response_time_ms": 632.3785781860352,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 293,
+    "timestamp": "2025-12-07T12:16:34.017235",
+    "server": "h1",
+    "response_time_ms": 155.5938720703125,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 294,
+    "timestamp": "2025-12-07T12:16:34.904164",
+    "server": "h2",
+    "response_time_ms": 786.5421772003174,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 295,
+    "timestamp": "2025-12-07T12:16:35.179434",
+    "server": "h3",
+    "response_time_ms": 174.8509407043457,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 296,
+    "timestamp": "2025-12-07T12:16:35.825561",
+    "server": "h4",
+    "response_time_ms": 544.5668697357178,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 297,
+    "timestamp": "2025-12-07T12:16:36.074195",
+    "server": "h1",
+    "response_time_ms": 147.78399467468262,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 298,
+    "timestamp": "2025-12-07T12:16:36.942524",
+    "server": "h2",
+    "response_time_ms": 765.6879425048828,
+    "success": true,
+    "pattern": "normal"
+  },
+  {
+    "sample_id": 299,
+    "timestamp": "2025-12-07T12:16:37.235040",
+    "server": "h3",
+    "response_time_ms": 191.38717651367188,
+    "success": true,
+    "pattern": "normal"
+  }
+]
