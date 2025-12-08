@@ -120,7 +120,7 @@ def create_labels(df):
     
     return df
 
-def prepare_model_features(df):
+def prepare_model_features(df, exclude_server_column=False):
     feature_cols = [
         'server_encoded', 'response_time_ms', 'success',
         'mean_rt', 'std_rt', 'min_rt', 'max_rt', 'count', 'success_rate',
@@ -130,6 +130,9 @@ def prepare_model_features(df):
         'h3_recent_mean', 'h3_recent_count', 'h3_recent_success_rate',
         'h4_recent_mean', 'h4_recent_count', 'h4_recent_success_rate'
     ]
+    
+    if exclude_server_column:
+        feature_cols = [col for col in feature_cols if col != 'server_encoded']
     
     available_cols = [col for col in feature_cols if col in df.columns]
     X = df[available_cols].values
@@ -177,10 +180,11 @@ def main():
     print(f"\nOptimal server distribution:")
     print(df['optimal_server'].value_counts())
     
-    X, y, feature_names = prepare_model_features(df)
+    X, y, feature_names = prepare_model_features(df, exclude_server_column=True)
     print(f"\nFeature matrix shape: {X.shape}")
     print(f"Labels shape: {y.shape}")
     print(f"Feature names: {feature_names}")
+    print("Note: server_encoded excluded from features as per deployment requirements")
     
     if y is not None:
         unique_classes = np.unique(y)

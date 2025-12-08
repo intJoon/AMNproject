@@ -29,7 +29,14 @@ def train_random_forest(data):
     print("Training Random Forest Model")
     print("=" * 60)
     
-    model = RandomForestLoadBalancer(n_estimators=100, max_depth=10)
+    model = RandomForestLoadBalancer(
+        n_estimators=100, 
+        max_depth=5,
+        min_samples_split=15,
+        min_samples_leaf=8,
+        max_features='sqrt',
+        class_weight='balanced'
+    )
     model.server_mapping = data['server_mapping']
     model.feature_names = data['feature_names']
     

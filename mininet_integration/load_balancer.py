@@ -186,9 +186,7 @@ class MininetLoadBalancer:
             return servers[best_idx]
         
         if self.algorithm == 'random_forest':
-            features_2d = features.reshape(1, -1)
-            pred_class = self.model.predict(features_2d)[0]
-            return self.server_mapping.get(pred_class, f'h{pred_class + 1}')
+            return self.model.predict_server(features, dict(self.current_loads), self.server_mapping)
         elif self.algorithm == 'graph_coloring':
             return self.model.predict_server(features, dict(self.current_loads), self.server_mapping)
         elif self.algorithm == 'ddpg':
