@@ -34,26 +34,11 @@ env/
 *~
 
 # Project specific
-prompt.txt
-project_proposal.txt
-paper/
 documentation/
-
-# Data files (optional - uncomment if you don't want to track data)
-# dataset/
-# saved_models/
-
-# Documentation outputs (optional - uncomment if you don't want to track generated docs)
-# documentation/*.pdf
-# documentation/*.png
-# evaluation/visualizations/
 
 # OS
 .DS_Store
 Thumbs.db
-
-# Jupyter Notebook
-.ipynb_checkpoints
 
 # Environment variables
 .env
